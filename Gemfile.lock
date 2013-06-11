@@ -1,0 +1,15 @@
+GIT
+  remote: https://github.com/davidpallisonexp/hola.git
+  revision: 565324d1f6e2ee13dfd984ec6a5bb9da8e480180
+  specs:
+    hola (0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  hola!
